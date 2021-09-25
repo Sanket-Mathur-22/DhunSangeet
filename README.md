@@ -1,10 +1,10 @@
 # Screenshots
 <br>
 
-<img src="https://user-images.githubusercontent.com/88501631/134782364-d6ad1869-9a7c-4f57-b17f-ef235ce12a2d.png" width="320" height="650"/>
+<img src="https://user-images.githubusercontent.com/88501631/134782364-d6ad1869-9a7c-4f57-b17f-ef235ce12a2d.png" width="320" height="680"/>
 <br>
 
-<img src="https://user-images.githubusercontent.com/88501631/134782325-ca892816-4878-4662-bae6-8eb9487c9512.png" width="320" height="650"/>
+<img src="https://user-images.githubusercontent.com/88501631/134782325-ca892816-4878-4662-bae6-8eb9487c9512.png" width="320" height="680"/>
 <br>
 
 
