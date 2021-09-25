@@ -1,4 +1,4 @@
-# Screenshot
+# Screenshots
 <br>
 
 <img src="https://user-images.githubusercontent.com/88501631/134782364-d6ad1869-9a7c-4f57-b17f-ef235ce12a2d.png" width="320" height="650"/>
@@ -10,7 +10,7 @@
 
 
 
-# Demo
+# Demo of the app "DhunSangeet"
 
 
 
