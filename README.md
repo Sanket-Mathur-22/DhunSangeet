@@ -1,7 +1,10 @@
 # Screenshot
 <br>
 
-<img src="https://user-images.githubusercontent.com/88501631/134042982-c7eaf056-e20e-4aba-9ae6-c5b097443e64.png" width="320" height="650"/>
+<img src="https://user-images.githubusercontent.com/88501631/134782325-ca892816-4878-4662-bae6-8eb9487c9512.png" width="320" height="650"/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/88501631/134782325-ca892816-4878-4662-bae6-8eb9487c9512.png" width="320" height="650"/>
 <br>
 
 
